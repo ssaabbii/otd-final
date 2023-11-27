@@ -19,14 +19,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="https://t.me/sabinaerikovna">
+            Contact us
           </Link>
         </div>
       </div>
     </header>
   );
 }
+
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -35,8 +36,33 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
+      <header className={clsx('hero--primary', styles.heroBanner)}>
+        <div className="container">
+        <Heading as="h2" className="hero__title">
+          Преимущества
+        </Heading>
+        <p className="hero__subtitle">использования сервиса для пользователей</p>
+     
+      </div>
+    </header>
       <main>
         <HomepageFeatures />
+
+        <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className="container">
+        <Heading as="h1" className="hero__title">
+          TRY IT NOW
+        </Heading>
+      
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://t.me/MyDearSkin_bot">
+            Telegram-bot
+          </Link>
+        </div>
+      </div>
+    </header>
       </main>
     </Layout>
   );

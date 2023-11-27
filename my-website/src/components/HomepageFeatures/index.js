@@ -4,38 +4,51 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Персонализация',
+    Svg: require('@site/static/img/undraw_smiley_face_re_9uid.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Индивидуальный подход к каждому.
+      </>
+    ),
+    SecondParagraph: (
+      <>
+        The First.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Удобство использования',
+    Svg: require('@site/static/img/undraw_mobile_app_re_catg.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Подбор ухода за кожей прямо у Вас в телефоне.
+
+      </>
+    ),
+    SecondParagraph: (
+      <>
+        The Second.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Экономия',
+    Svg: require('@site/static/img/undraw_savings_re_eq4w.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Выбор уходовых средств без лишних затрат.
+      </>
+    ),
+    SecondParagraph: (
+      <>
+        The Third.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, SecondParagraph}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -44,6 +57,7 @@ function Feature({Svg, title, description}) {
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+        {/* <p>{SecondParagraph}</p> */}
       </div>
     </div>
   );
