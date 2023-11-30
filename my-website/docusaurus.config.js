@@ -79,7 +79,7 @@ const config = {
             label: 'Documentation',
           },
           {to: '/api', label: 'API', position: 'left'},
-          {to: '/demo', label: 'DEMO', position: 'left'},
+          // {to: '/demo', label: 'DEMO', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
          
           {
