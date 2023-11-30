@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6704],{42230:t=>{t.exports=JSON.parse('{"title":"Articles","slug":"/category/articles","permalink":"/otd-final/docs/category/articles","navigation":{"previous":{"title":"Start","permalink":"/otd-final/docs/start"},"next":{"title":"Skin types","permalink":"/otd-final/docs/articles/skin1"}}}')}}]);

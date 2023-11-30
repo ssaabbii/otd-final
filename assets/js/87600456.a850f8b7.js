@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8427],{10882:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/otd-final/blog/tags/hello","allTagsPath":"/otd-final/blog/tags","count":2,"unlisted":false}')}}]);
