@@ -86,6 +86,13 @@ const config = {
           },
         ],
       },
+
+      algolia: {
+        apiKey: 'ded5519b150136db8de7a8d2b5c51d08',
+        indexName: 'MHS',
+        appId: 'W2Z9XOF0W3'
+      },
+
       footer: {
         style: 'dark',
         links: [
