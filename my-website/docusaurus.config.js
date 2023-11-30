@@ -76,11 +76,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
+          {to: '/api', label: 'API', position: 'left'},
+          {to: '/demo', label: 'DEMO', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
+         
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ssaabbii/otd-final',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +96,7 @@ const config = {
         appId: 'W2Z9XOF0W3'
       },
 
-      
+
       footer: {
         style: 'dark',
         links: [
@@ -101,25 +104,29 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Team',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Батурова Дари',
+                href: 'https://t.me/dori_b',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Дерунец Роман',
+                href: 'https://t.me/rmndrnts',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Нурдолотова Сабина',
+                href: 'https://t.me/sabinaerikovna',
+              },
+              {
+                label: 'Тимофеева Юлия',
+                href: 'https://t.me/caelartg',
               },
             ],
           },
@@ -132,7 +139,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ssaabbii/MyHappySkin',
               },
             ],
           },
