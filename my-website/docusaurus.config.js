@@ -93,6 +93,7 @@ const config = {
         appId: 'W2Z9XOF0W3'
       },
 
+      
       footer: {
         style: 'dark',
         links: [
