@@ -79,8 +79,8 @@ const config = {
             label: 'Documentation',
           },
           {to: '/api', label: 'API', position: 'left'},
-          // {to: '/demo', label: 'DEMO', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/demo', label: 'DEMO', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
          
           {
             href: 'https://github.com/ssaabbii/otd-final',
@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/docs/start',
               },
             ],
           },
