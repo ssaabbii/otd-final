@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2265],{82976:s=>{s.exports=JSON.parse('{"label":"skin disorders","permalink":"/otd-final/blog/tags/skin-disorders","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

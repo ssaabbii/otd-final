@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[333],{72846:a=>{a.exports=JSON.parse('{"label":"image classification","permalink":"/otd-final/blog/tags/image-classification","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

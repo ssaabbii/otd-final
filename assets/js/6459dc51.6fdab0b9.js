@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2134],{64920:e=>{e.exports=JSON.parse('{"label":"Generative Adversarial Network (GAN)","permalink":"/otd-final/blog/tags/generative-adversarial-network-gan","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9897],{74972:e=>{e.exports=JSON.parse('{"label":"smartphone image","permalink":"/otd-final/blog/tags/smartphone-image","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

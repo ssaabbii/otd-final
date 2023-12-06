@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7055],{51613:s=>{s.exports=JSON.parse('{"label":"mask R-CNN","permalink":"/otd-final/blog/tags/mask-r-cnn","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

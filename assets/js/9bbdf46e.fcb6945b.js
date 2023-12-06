@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7352],{559:a=>{a.exports=JSON.parse('{"label":"facial skin problem","permalink":"/otd-final/blog/tags/facial-skin-problem","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

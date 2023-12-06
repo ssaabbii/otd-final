@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9682],{15808:a=>{a.exports=JSON.parse('{"label":"acne grading","permalink":"/otd-final/blog/tags/acne-grading","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

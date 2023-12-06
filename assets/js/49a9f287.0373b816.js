@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8013],{19566:e=>{e.exports=JSON.parse('{"label":"transfer learning","permalink":"/otd-final/blog/tags/transfer-learning","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

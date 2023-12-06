@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[704],{61679:s=>{s.exports=JSON.parse('{"label":"acne assessment","permalink":"/otd-final/blog/tags/acne-assessment","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

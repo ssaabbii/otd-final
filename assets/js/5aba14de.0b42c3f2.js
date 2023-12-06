@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3996],{41094:e=>{e.exports=JSON.parse('{"label":"tactics for high performance","permalink":"/otd-final/blog/tags/tactics-for-high-performance","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);
