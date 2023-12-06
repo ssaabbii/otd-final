@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/api', label: 'API', position: 'left'},
           {to: '/demo', label: 'DEMO', position: 'left'},
-          // {to: '/blog', label: 'Blog', position: 'left'},
+           {to: '/blog', label: 'Literature list', position: 'left'},
          
           {
             href: 'https://github.com/ssaabbii/otd-final',

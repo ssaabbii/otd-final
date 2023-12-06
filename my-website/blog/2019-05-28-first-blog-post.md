@@ -1,12 +1,13 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: 1-blog-post
+title: Facial Skin Problem Diagnosis
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: 'High Performing Facial Skin Problem Diagnosis with Enhanced Mask R-CNN and Super Resolution GAN'
+  title: Mira Kim, Myeong Ho Song 
+  url: https://www.mdpi.com/2076-3417/13/2/989
+  # image_url: https://github.com/wgao19.png
+tags: [facial skin problem, mask R-CNN, super resolution, Generative Adversarial Network (GAN), tactics for high performance]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+**Abstract:** 
+Состояние кожи лица воспринимается как важнейший индикатор возраста, красоты и состояния здоровья человека. Программная аналитика состояния кожи лица на основе машинного обучения может стать экономичной по времени и средствам альтернативой традиционному подходу к посещению магазинов по уходу за кожей лица или кабинетов дерматологов. Однако традиционный подход, основанный на CNN, как показывает практика, имеет ограниченные возможности диагностики в связи с присущими проблемам кожи лица особенностями. В этой статье сначала рассматриваются технические проблемы диагностики проблем кожи лица, а также предлагается набор из 5 эффективных тактик для преодоления технических проблем. В общей сложности 31 модель сегментации была обучена и применена в экспериментах по проверке предложенных тактик. В ходе экспериментов предложенный подход обеспечивает 83,38% эффективности диагностики, что на 32,58% выше, чем у обычного подхода CNN.
