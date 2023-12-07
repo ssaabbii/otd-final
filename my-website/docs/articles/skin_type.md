@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Skin types'
+sidebar_label: 'Типы кожи'
 id: skin1
 title: Как определить свой тип кожи?
 sidebar_position: 1

@@ -1,7 +1,7 @@
 ---
-sidebar_label: 'Start'
+sidebar_label: 'Введение'
 id: start
-title: Начало
+title: Введение
 sidebar_position: 1
 ---
 ## О проекте

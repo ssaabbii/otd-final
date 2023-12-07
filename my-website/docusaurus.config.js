@@ -76,11 +76,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Документация',
           },
           {to: '/api', label: 'API', position: 'left'},
-          {to: '/demo', label: 'DEMO', position: 'left'},
-           {to: '/blog', label: 'Literature list', position: 'left'},
+          {to: '/demo', label: 'Демо', position: 'left'},
+           {to: '/blog', label: 'Список литературы', position: 'left'},
          
           {
             href: 'https://github.com/ssaabbii/otd-final',
@@ -104,13 +104,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentation',
+                label: 'Документация',
                 to: '/docs/start',
               },
             ],
           },
           {
-            title: 'Team',
+            title: 'Команда',
             items: [
               {
                 label: 'Батурова Дари',
@@ -131,7 +131,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Больше',
             items: [
               
               {
