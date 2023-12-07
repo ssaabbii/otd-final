@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2546],{89509:e=>{e.exports=JSON.parse('{"label":"acne object detection","permalink":"/otd-final/blog/tags/acne-object-detection","allTagsPath":"/otd-final/blog/tags","count":1,"unlisted":false}')}}]);

@@ -8,12 +8,12 @@
     <subtitle>MyHappySkin Blog</subtitle>
     <icon>https://ssaabbii.github.io/otd-final/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Assessing Facial Acne Severity]]></title>
+        <title type="html"><![CDATA[Оценка степени тяжести акне на лице]]></title>
         <id>https://ssaabbii.github.io/otd-final/blog/2-blog-post</id>
         <link href="https://ssaabbii.github.io/otd-final/blog/2-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract:]]></summary>
-        <content type="html"><![CDATA[<p><strong>Abstract:</strong>
+        <summary type="html"><![CDATA[Резюме:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Резюме:</strong>
 Исследование, проведенное совместно с Nestlé SHIELD (Skin Health, Innovation, Education, and Longevity Development, NSH), привело к разработке глубокой модели машинного обучения, способной оценивать тяжесть акне по селфи с точностью, сравнимой с оценкой дерматолога. Для этого было использовано 4 700 селфи, размеченных 11 дерматологами в пять категорий: от 1 (Чистая кожа) до 5 (Тяжелая форма акне). Для решения проблемы недостатка данных и плохого качества изображений был предложен новый подход к аугментации изображений лица, а также использована технология OpenCV для выделения ключевых участков кожи на селфи. Модель, основанная на сверточных нейронных сетях, превзошла более половины экспертов по оценке тяжести акне на тестовых изображениях, и, по нашим данным, является первым решением на основе глубокого обучения для оценки акне по селфи.</p>]]></content>
         <author>
             <name>A Computer Vision Application for Assessing Facial Acne Severity from Selfie Images</name>
@@ -27,29 +27,25 @@
         <category label="skin disorders" term="skin disorders"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acne Object Detection]]></title>
+        <title type="html"><![CDATA[Обнаружение акне]]></title>
         <id>https://ssaabbii.github.io/otd-final/blog/3-blog-post</id>
         <link href="https://ssaabbii.github.io/otd-final/blog/3-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract:]]></summary>
-        <content type="html"><![CDATA[<p><strong>Abstract:</strong>
+        <summary type="html"><![CDATA[Резюме:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Резюме:</strong>
 Анализ изображений кожи с помощью искусственного интеллекта (ИИ) в последнее время привлекает значительный исследовательский интерес, особенно для анализа изображений кожи, полученных с помощью мобильных устройств. Акне - одно из самых распространенных заболеваний кожи, которое в тяжелых случаях имеет серьезные последствия. В данном исследовании мы разработали систему искусственного интеллекта под названием AcneDet для автоматического обнаружения объектов акне и оценки степени тяжести акне по изображениям лица, полученным с помощью смартфонов. AcneDet включает две модели для решения двух задач: (1) модель глубокого обучения Faster R-CNN для обнаружения объектов поражения акне четырех типов, включая угри/белые угри, папулы/пустулы, узелки/кисты и шрамы от акне; и (2) модель машинного обучения LightGBM для оценки степени тяжести акне по шкале глобальной оценки исследователя (IGA). Выходные данные модели Faster R-CNN, т.е. количество каждого типа акне, использовались в качестве входных данных для модели LightGBM для оценки степени тяжести акне. Для обучения был использован набор данных, состоящий из 1572 маркированных изображений лица, полученных с помощью смартфонов на базе iOS и Android. Результаты показывают, что модель Faster R-CNN достигает mAP 0,54 для обнаружения объектов акне. Средняя точность определения степени тяжести акне по модели LightGBM составляет 0,85. С помощью этого исследования мы надеемся внести вклад в разработку искусственных интеллектуальных систем, которые помогут пациентам с акне лучше понять свое состояние и поддержать врачей в диагностике акне.</p>]]></content>
         <author>
             <name>Automatic Acne Object Detection and Acne Severity Grading Using Smartphone Images and Artificial Intelligence</name>
             <uri>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9406819/</uri>
         </author>
-        <category label="deep learning" term="deep learning"/>
-        <category label="smartphone image" term="smartphone image"/>
-        <category label="acne grading" term="acne grading"/>
-        <category label="acne object detection" term="acne object detection"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facial Skin Problem Diagnosis]]></title>
+        <title type="html"><![CDATA[Диагностика проблем кожи лица]]></title>
         <id>https://ssaabbii.github.io/otd-final/blog/1-blog-post</id>
         <link href="https://ssaabbii.github.io/otd-final/blog/1-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract:]]></summary>
-        <content type="html"><![CDATA[<p><strong>Abstract:</strong>
+        <summary type="html"><![CDATA[Резюме:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Резюме:</strong>
 Состояние кожи лица воспринимается как важнейший индикатор возраста, красоты и состояния здоровья человека. Программная аналитика состояния кожи лица на основе машинного обучения может стать экономичной по времени и средствам альтернативой традиционному подходу к посещению магазинов по уходу за кожей лица или кабинетов дерматологов. Однако традиционный подход, основанный на CNN, как показывает практика, имеет ограниченные возможности диагностики в связи с присущими проблемам кожи лица особенностями. В этой статье сначала рассматриваются технические проблемы диагностики проблем кожи лица, а также предлагается набор из 5 эффективных тактик для преодоления технических проблем. В общей сложности 31 модель сегментации была обучена и применена в экспериментах по проверке предложенных тактик. В ходе экспериментов предложенный подход обеспечивает 83,38% эффективности диагностики, что на 32,58% выше, чем у обычного подхода CNN.</p>]]></content>
         <author>
             <name>High Performing Facial Skin Problem Diagnosis with Enhanced Mask R-CNN and Super Resolution GAN</name>
